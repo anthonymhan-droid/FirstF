@@ -1,5 +1,7 @@
 # FirstF
 
+## Command Description:
+
 ## FirstF combines the grep and head commands of Linux. It does this so it can search for a specific pattern listed by the user within N lines of a file, with N lines being dictated by the user.
 
 ## To run FirstF, type this within the terminal: node firstf.js PATTERN FILENAME NUMBER_OF_LINES.
